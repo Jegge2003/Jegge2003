@@ -39,7 +39,7 @@ An Electrical & Electronics graduate at the nexus of circuits and cognition, I h
 
 ### Let's Connect
 [<img align='left' alt='Java' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/james-owusu-appiah/)
-[<img align='left' alt='Java' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg"/>](https://medium.com/@jamesoappiah2003)
+[<img align='left' alt='Medium' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg"/>](https://medium.com/@jamesoappiah2003)
 [<img align='left' alt='Java' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>](https://web.facebook.com/james.kwabena.169/)
 [<img align='left' alt='Java' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>](https://twitter.com/TheJoka2003)
 
